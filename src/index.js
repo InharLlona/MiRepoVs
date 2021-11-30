@@ -1,4 +1,4 @@
 const sampleNumber = 1;
-const sampleNumberC = 3;
+const sampleNumberB = 4;
 
-console.log(`Hello world ${sampleNumber} ${sampleNumberC}`);
+console.log(`Hello world ${sampleNumber} ${sampleNumberB}`);
